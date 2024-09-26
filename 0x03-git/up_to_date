@@ -1,0 +1,2 @@
+echo "git push origin main --force" > up_to_date
+
